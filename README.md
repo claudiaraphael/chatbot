@@ -1,0 +1,1 @@
+Chatbot created with openai library in python to use in web projects. I used the OpenAi API. I created an API key (which is now deleted for security purposes) to link the aplication to the API.
