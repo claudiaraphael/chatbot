@@ -11,7 +11,7 @@ def send_message(message):
         messages = [
             {"role": "user", "content": mensagem}
         ]
-    
-    
-    
     )
+
+    return response["choices"][0]
+# retorna a resposta que esta dentro do dicionario resposta que contem a key "choices" ~com a resposta
