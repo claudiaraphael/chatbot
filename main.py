@@ -18,7 +18,7 @@ def send_message(message):
 
     return response["choices"][0]["message"]
 
-print(send_message("What's the medium price for weed in Toronto?"))
+print(send_message("What's the medium price for coffee in Toronto?"))
 
 # excedeu a quota do chatgpt entao como nao tenho premium vou continuar depois pra poder continuar testando enquanto desenvolvo
 # link do tutorial: https://www.youtube.com/watch?v=vGn4yAsIpkU&t=25s
